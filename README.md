@@ -16,6 +16,3 @@ Create unlimited passwords to brute force any account! This tool is created only
 9. Once saved successfully
 10. Exit the tool
 11. Type cat passwords.txt too see all the created passwords
-
-"# wordlistgen" 
-"# wordlistgen" 
